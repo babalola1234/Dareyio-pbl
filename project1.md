@@ -14,7 +14,7 @@
 
 `sudo systemctl apache2`
 
-![project image](./images/Project1-Image1-systemctl-status-apache2.PNG)
+![project image]C:\Users\babal\Desktop\babadeen-dare-io-myworkspace\project-1\images\project-1-image-4-php-version.PNG
 
 ` http://my-ip:80`
 
