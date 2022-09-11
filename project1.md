@@ -28,7 +28,7 @@ https://github.com/babalola1234/project-1/blob/424c3b3b23840149061aaa427a55e2f37
 
 ` sudo mysql `
 
-![project image](./images/Project1-Image3-mysql-passoword.PNG)
+![project image](https://github.com/babalola1234/project-1/blob/main/images/Project1-Image1-systemctl-status-apache2.PNG)
 
 
 
