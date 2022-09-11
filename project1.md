@@ -14,7 +14,7 @@
 
 `sudo systemctl apache2`
 
-https://github.com/babalola1234/project-1/blob/424c3b3b23840149061aaa427a55e2f37d1304fa/images/project-1-image-4-php-version.PNG
+![](https://github.com/babalola1234/project-1/blob/424c3b3b23840149061aaa427a55e2f37d1304fa/images/project-1-image-4-php-version.PNG)
 
 ` http://my-ip:80`
 
